@@ -1,0 +1,37 @@
+body {
+    background-color:  rgb(0, 38, 62)  ;
+}
+.bs-example{
+    margin: 20px;
+}
+
+table{
+    background-color: white;
+    margin-top: 70px;
+}
+
+.card{
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
+    height: 650px;
+}
+
+aside{
+    background-color: aliceblue;
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+}
+p{
+    font-style: italic;
+    margin-left: 50px;
+    float: left;    
+}
+aside#edit{
+    background-color: aliceblue;
+    height: 800px;
+    width: 800px;
+    float: center;
+}
