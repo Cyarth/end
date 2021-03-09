@@ -41,13 +41,13 @@
                 <input type="password" class="form-control" name="password" placeholder="Contraseña" >
             </div>
             <div class="form-group">
-			<label class="checkbox-inline"><input type="checkbox" required="required"> I accept the <a href="#">Terms of Use</a> &amp; <a href="#">Privacy Policy</a></label>
+			<label class="checkbox-inline"><input type="checkbox" required="required"> Acepte los <a href="#">terminos de uso</a> &amp; <a href="#">politicas de privacidad</a></label>
             </div>
             <div class="form-group">
-               <button type="submit" name="submit" class="btn btn-primary btn-lg">Sign Up</button>
+               <button type="submit" name="submit" class="btn btn-primary btn-lg">Registrarse</button>
             </div>
             </form>
-            <div class="hint-text">Already have an account? <a href="login.php">Login here</a></div>
+            <div class="hint-text">¿Cuentas con una cuenta? <a href="login.php">Ingresa aquí</a></div>
             
         </form>
     </div>

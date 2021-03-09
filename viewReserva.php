@@ -57,6 +57,9 @@ $pagina= ceil($row_cnt/$reserva_x_pagina);
     ?>
 </tbody>
 </table>   
+
+<div class="row">
+    
 <nav class="mt-5 ml-5" aria-label="Page navigation example">
   <ul class="pagination">
   <li class="page-item <?php echo $_GET['pagina']<=1? 'disabled' : '' ?>
@@ -80,5 +83,6 @@ $pagina= ceil($row_cnt/$reserva_x_pagina);
     </li>
   </ul>
 </nav> 
+</div>
 </body>
 </html>
